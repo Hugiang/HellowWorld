@@ -6,7 +6,7 @@ public class HelloWorld {
 
 		Invoice invoice = new Invoice();
 	//	System.out.println((SalesInvoice) Invoice.formatId("1234"));
-		System.out.println("Hello world!");
+		System.out.println("Hello world 1!");
 		
 	}
 
